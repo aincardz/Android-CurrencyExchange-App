@@ -1,0 +1,32 @@
+[
+  {
+    "featureType": "administrative.country",
+    "elementType": "geometry",
+    "stylers": [
+      {
+        "visibility": "on"
+      },
+      {
+        "weight": 1.5
+      }
+    ]
+  },
+  {
+    "featureType": "administrative.country",
+    "elementType": "labels",
+    "stylers": [
+      {
+        "visibility": "on"
+      }
+    ]
+  },
+  {
+    "featureType": "administrative.locality",
+    "elementType": "labels",
+    "stylers": [
+      {
+        "visibility": "on"
+      }
+    ]
+  }
+] 
